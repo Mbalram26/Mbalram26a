@@ -1,2 +1,2 @@
-# Mbalram26a
+# Meal Finder App
 Meal Finder App
